@@ -4,3 +4,4 @@
 - Capitalize
 - Short and Precise
 - No full stops or comma
+- Subject and Body
