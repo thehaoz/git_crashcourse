@@ -5,3 +5,4 @@
 - Short and Precise
 - No full stops or comma
 - Subject and Body
+- you can adopt your own style
